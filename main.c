@@ -38,7 +38,7 @@ int main()
 		display(ch,postfix);
     }
     postfix[k++]='\0';
-    printf("\n\nInfix Expn: %s postfix Expn: %s\n",infix,postfix);
+    printf("\n\nInfix Expn: %s \npostfix Expn: %s\n",infix,postfix);
 return 0;
 }
 
